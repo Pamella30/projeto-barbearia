@@ -3,14 +3,10 @@ body {
 }
 
 header {
-    background-color: #bbbbbb;
-    padding: 20px;
+    background: linear-gradient(#fefefe, #888888);
+    padding: 20px 0;
 }
 
-.principal {
-    padding: 3em 0;
-    background-color: #fefefe;
-}
 .caixa {
     position: relative;
     width: 940px;
@@ -95,15 +91,11 @@ footer {
 .copyright {
     color: #ffffff;
     font-size: 13px;
-    margin: 20px 0;
-}
-
-main {
-    
+    margin: 20px 0 0;
 }
 
 form {
-    margin: 40px 0;
+    margin: 40px 40px;
 }
 
 form label, form legend {
@@ -142,7 +134,7 @@ form label, form legend {
 }
 
 table {
-    margin: 20px 0 40px;
+    margin: 20px 40px;
 }
 
 thead {
@@ -269,4 +261,5 @@ td, th {
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
     }
+
 }
