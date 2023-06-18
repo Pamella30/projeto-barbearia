@@ -1,9 +1,10 @@
-| :placard: Vitrine.Dev |     |
+| 🚀 Vitrine.Dev | | 
 | -------------  | --- |
-| :sparkles: Nome        | **Barbearia Alura**
-| :label: Tecnologias | HTML e CSS
-| :rocket: URL         | https://github.com/Pamella30/projeto-barbearia
-| :fire: Curso     | https://cursos.alura.com.br/course/html5-css3-primeiros-passos
+| 📌 Projeto | **Barbearia Alura**
+| :label: Tecnologias |HTML e CSS
+| :globe_with_meridians: URL |https://projeto-barbearia-cwza.vercel.app/
+| :file_folder: Arquivos |  https://github.com/Pamella30/projeto-barbearia
+| :computer: Curso | https://cursos.alura.com.br/course/html5-css3-primeiros-passos
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/Pamella30/projeto-barbearia/main/barbearia.png#vitrinedev)
